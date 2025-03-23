@@ -1,5 +1,3 @@
 # revolt.ts
-A typescript app for revolt.chat made by a 14 year old!
-If you want to help me build this, please visit the todo.md.
-Thanks!
-
+an app for the revolt.chat's api
+blessed be the almighty moz docs!
